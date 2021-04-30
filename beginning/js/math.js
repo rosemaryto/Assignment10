@@ -12,10 +12,11 @@
 
 
 //STEP 4
-var urNum = window.prompt("Enter 5 numbers using commas");
-var nums = [];
-var bigSmlNum = nums.push(`${urNum}`);
-window.console.log(nums);
+// var urNum = window.prompt("Enter 5 numbers using commas");
+// var nums = [];
+// var bigSmlNum = nums.push(`${urNum}`);
+
+// window.console.log(Math.max(nums));
 
 
 
